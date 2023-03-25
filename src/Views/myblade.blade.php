@@ -1,0 +1,2 @@
+HUehuehuehuheuheuehuehuehue
+{{ $data }}
